@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**22narek/22narek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Narek, a Dart / Flutter developer 👨‍💻 </div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on metaH  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Dart and Flutter  
+  
+
+- ⚡ Fun fact: It's not me on the gif  
+  
+
+<br/>  
+
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+  <a href="https://t.me/narekp" target="_blank">
+<img src=https://img.shields.io/badge/telegram-9cf?style=for-the-badge&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
+</a> 
+  <a href="https://linkedin.com/in/22narek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://github.com/22narek" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ 
+
+</div>  
+  
