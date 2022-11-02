@@ -13,9 +13,6 @@
   
 
 - ⚡ Fun fact: It's not me on the gif  
-  
-
-<br/>  
 
 
 
